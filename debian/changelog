@@ -1,0 +1,6 @@
+libdist-zilla-pluginbundle-qbit-dupload-perl (0.001) precise; urgency=low
+
+  * Initial commit.
+
+ -- Dmitry Lukiyanchuk <tertius@yandex-team.ru>  Fri, 17 Apr 2015 12:06:56 +0300
+
